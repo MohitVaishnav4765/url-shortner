@@ -30,7 +30,12 @@
     <li>
         <p>Set up Database</p>
         <p>In the .env file, set up your database connection. For example, for MySQL:</p>
-        <p><code>DB_CONNECTION=mysql<br/>DB_HOST=127.0.0.1<br/>DB_PORT=3306<br/>DB_DATABASE=your_database_name<br/>DB_USERNAME=your_database_username<br/>DB_PASSWORD=your_database_password
+        <p><code>
+        DB_CONNECTION=mysql<br/>
+        DB_HOST=127.0.0.1<br/>
+        DB_PORT=3306<br/>
+        DB_DATABASE=your_database_name<br/>
+        DB_USERNAME=your_database_username<br/>DB_PASSWORD=your_database_password
         </code></p>
     </li>
     <li>
@@ -53,7 +58,6 @@
     <li><a href="https://getcomposer.org/doc/">Composer Documentation</a></li>
     <li><a href="https://spatie.be/docs/laravel-permission/v6/introduction">Spatie Laravel Permission</a> for Role based access control</li>
     <li><a href="https://yajrabox.com/docs/laravel-datatables/12.0">Yajra Laravel Datatables</a> for records listing,sorting & pagination</li>
-    <li><a href="https://yajrabox.com/docs/laravel-datatables/12.0">Yajra Laravel Datatables</a> for records listing,sorting & pagination</li>
     <li><a href="https://github.com/proengsoft/laravel-jsvalidation">proengsoft/laravel-jsvalidation</a> for client side validation</li>
-    <li><a href="https://chatgpt.com/">ChatGPT</a> for syntax</li>
+    <li><a href="https://chatgpt.com/">ChatGPT</a> for syntax & brain storming</li>
 </ul>
